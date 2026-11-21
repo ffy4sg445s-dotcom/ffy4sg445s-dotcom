@@ -1,325 +1,199 @@
 ```md
-<!--
-╔══════════════════════════════════════════════════════════╗
-║              J.A.R.V.I.S. SYSTEM INTERFACE              ║
-║                  GITHUB PROFILE README                  ║
-╚══════════════════════════════════════════════════════════╝
-
-PERSONALIZE:
-1. Substitua SEU_USUARIO pelo seu username do GitHub.
-2. Atualize suas redes sociais.
-3. Atualize os projetos e tecnologias conforme evoluir.
--->
-
-<!-- ==================== HERO BANNER ==================== -->
+<!-- ===================================================== -->
+<!--              CYBERPUNK DEVELOPER PROFILE              -->
+<!--                 SYSTEM INITIALIZATION                 -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:101B3D,100:00D9FF&text=SYSTEM%20ONLINE&fontColor=00E5FF&fontSize=48&fontAlignY=38&desc=INITIALIZING%20DEVELOPER%20INTERFACE...&descAlignY=58&animation=fadeIn&fontColor=FFFFFF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:26004D,70:7000FF,100:FF00A8&height=230&section=header&text=FFY4SG445S&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=CYBERPUNK%20DEVELOPER%20INTERFACE&descSize=17&descAlignY=60&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hello%2C+World!;Welcome+to+my+digital+universe.;Full+Stack+Developer+in+Progress;Building+the+future+with+code.;System+Status%3A+Always+Learning." alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=900&color=CB00FF&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;WELCOME+TO+MY+DIGITAL+WORLD;DEVELOPER+MODE%3A+ACTIVATED;BUILDING+THE+FUTURE+WITH+CODE;WELCOME+TO+NIGHT+CITY." />
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/STATUS-LEARNING-7B2CFF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FOCUS-DEVELOPMENT-00FF9C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-9D00FF?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/LOCATION-BRAZIL-FF00A8?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-7000FF?style=for-the-badge&logo=github&logoColor=white"/>
 
 <br/><br/>
 
-**`[ ACCESS GRANTED ]`**  
-*Transforming ideas into intelligent solutions.*
+### `WAKE UP, DEVELOPER. THE FUTURE IS YOURS.`
+
+*Code is my weapon. Creativity is my power.*
 
 </div>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+## `01 // ABOUT ME`
 
-## 👨‍💻 About Me | Sobre Mim
+<img align="right" width="130" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
-identity:
-  name: "SEU NOME"
-  role: "Developer in Progress"
+USER:
+  name: "João Felipe"
+  username: "ffy4sg445s-dotcom"
   location: "Brazil 🇧🇷"
+  classification: "Developer in Progress"
 
-mission:
-  - Build creative digital solutions
-  - Develop intelligent automations
+MISSION:
+  - Create innovative solutions
+  - Build intelligent systems
   - Explore new technologies
-  - Turn ideas into functional projects
+  - Transform ideas into code
 
-currently_learning:
+CURRENT_FOCUS:
   - JavaScript
   - Node.js
   - Web Development
-  - Automation & APIs
+  - Automation
+  - APIs
 
-mindset: "Code. Learn. Build. Repeat."
+MINDSET: "NEVER STOP EVOLVING"
 ```
 
-Sou um entusiasta da tecnologia e desenvolvimento de software, apaixonado por transformar ideias em projetos reais.
+Sou apaixonado por tecnologia, programação e pelo universo do desenvolvimento de software.
 
-Atualmente, estou aprofundando meus conhecimentos em programação, desenvolvimento web, automações e criação de sistemas inteligentes.
+Estou construindo minha jornada como desenvolvedor, explorando novas tecnologias e desenvolvendo projetos que unem criatividade, automação e inovação.
 
-Acredito que cada linha de código é uma oportunidade de aprender, evoluir e construir algo extraordinário.
+Meu objetivo é transformar ideias em soluções reais e evoluir constantemente no mundo da programação.
 
-> "The future is built one line of code at a time."
+> **"In Night City, legends are written in code."**
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
-
-## ⚡ Tech Stack | Tecnologias
+## `02 // TECH STACK`
 
 <div align="center">
 
-### Languages
+### ◈ PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs&theme=dark"/>
 
-### Tools & Environment
+### ◈ FRAMEWORKS & DATABASES
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,npm" />
+<img src="https://skillicons.dev/icons?i=react,express,mongodb,mysql,python&theme=dark"/>
 
-### Currently Exploring
+### ◈ DEVELOPMENT ENVIRONMENT
 
-<img src="https://skillicons.dev/icons?i=react,express,mongodb,mysql,python" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,npm,postman&theme=dark"/>
 
 </div>
 
 ---
 
-<!-- ==================== TOOLKIT ==================== -->
-
-## 🛠️ Developer Toolkit
+## `03 // DEVELOPER ARSENAL`
 
 <div align="center">
 
-| Tool | Purpose |
+| TOOL | FUNCTION |
 |:---:|:---|
-| <img src="https://skillicons.dev/icons?i=vscode" width="25"/> VS Code | Code Editor |
-| <img src="https://skillicons.dev/icons?i=git" width="25"/> Git | Version Control |
-| <img src="https://skillicons.dev/icons?i=github" width="25"/> GitHub | Repositories |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="25"/> Node.js | Backend Development |
-| <img src="https://skillicons.dev/icons?i=postman" width="25"/> Postman | API Testing |
-| <img src="https://skillicons.dev/icons?i=npm" width="25"/> NPM | Package Management |
+| 💻 VS Code | Code Editor |
+| 🔧 Git | Version Control |
+| 🐙 GitHub | Repository Management |
+| 🟢 Node.js | Backend Development |
+| 📦 NPM | Package Management |
+| 🚀 Postman | API Testing |
+| 🌐 Chrome | Web Development |
 
 </div>
 
 ---
 
-<!-- ==================== PROJECTS ==================== -->
-
-## 🚀 Featured Projects
+## `04 // PROJECT DATABASE`
 
 <div align="center">
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=SEU_REPOSITORIO_2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/ffy4sg445s-dotcom?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-9D00FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
-### 🧠 Project Pipeline
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Status |
-|---|---|---|
-| WhatsApp Automation | Intelligent WhatsApp bot with Node.js | `IN DEVELOPMENT` |
-| Web Applications | Modern and responsive web interfaces | `IN PROGRESS` |
-| Business Automation | Digital solutions for business workflows | `PLANNING` |
+### 🤖 WHATSAPP AUTOMATION
+
+**PROJECT_001**
+
+Intelligent WhatsApp automation using Node.js.
+
+- QR Code Authentication
+- Automated Messages
+- Image Sending
+- Bot Commands
+
+<img src="https://img.shields.io/badge/NODE.JS-7B00FF?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-FF00A8?style=flat-square&logo=javascript&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 WEB DEVELOPMENT
+
+**PROJECT_002**
+
+Modern interfaces and responsive websites.
+
+- HTML5 & CSS3
+- JavaScript
+- Responsive Layouts
+- User Experience
+
+<img src="https://img.shields.io/badge/HTML5-7B00FF?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-FF00A8?style=flat-square&logo=css3&logoColor=white"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ SMART AUTOMATION
+
+**PROJECT_003**
+
+Automation solutions for everyday tasks and workflows.
+
+- Process Automation
+- APIs
+- Integrations
+- Productivity
+
+<img src="https://img.shields.io/badge/AUTOMATION-7B00FF?style=flat-square&logo=probot&logoColor=white"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 FUTURE PROJECTS
+
+**PROJECT_004**
+
+New ideas waiting to become reality.
+
+- Backend Systems
+- Intelligent Applications
+- New Technologies
+- Software Engineering
+
+<img src="https://img.shields.io/badge/COMING%20SOON-FF00A8?style=flat-square&logo=github&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ==================== TERMINAL ==================== -->
+## `05 // CURRENT OBJECTIVES`
 
-## 💻 Current Objectives | Terminal
+<div align="center">
+
+<img width="80%" src="https://img.shields.io/badge/ACCESSING_DEVELOPER_TERMINAL-9D00FF?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
+
+</div>
 
 ```bash
-┌──[ DEVELOPER@JARVIS ]
-└──$ ./load_objectives.sh
-
-[01] >> Master JavaScript fundamentals
-[02] >> Develop advanced Node.js applications
-[03] >> Build WhatsApp automation systems
-[04] >> Improve frontend development skills
-[05] >> Explore APIs and backend architecture
-[06] >> Create and publish real-world projects
-
-┌─────────────────────────────────────┐
-│ SYSTEM MESSAGE:                     │
-│                                     │
-│ Learning never stops.               │
-│ Next level: UNLOCKED SOON...        │
-└─────────────────────────────────────┘
-
-root@developer:~$ _
-```
-
----
-
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7B2CFF&currStreakLabel=00E5FF" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=00e5ff&line=7b2cff&point=ffffff&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY" />
-
-</div>
-
----
-
-<!-- ==================== TROPHIES ==================== -->
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
----
-
-<!-- ==================== SNAKE ANIMATION ==================== -->
-
-## 🐍 Contribution Matrix
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<!-- ==================== SOCIAL NETWORKS ==================== -->
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
-
-<a href="https://www.instagram.com/SEU_INSTAGRAM/">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=7B2CFF"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
-</a>
-
-</div>
-
----
-
-<!-- ==================== FOOTER ==================== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:101B3D,100:050816&height=120&section=footer" />
-
-### `SYSTEM SHUTDOWN: NOT ALLOWED`
-
-**Thanks for visiting my digital universe.**
-
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=PROFILE%20VIEWS&color=00E5FF&style=for-the-badge" />
-
-<br/>
-
-<sub>Designed with 💙, powered by curiosity and built with code.</sub>
-
-<sub>© 2026 — Developer System | All Systems Operational</sub>
-
-</div>
-```
-
----
-
-## ⚙️ Configuração da animação Snake
-
-Para que a animação das contribuições funcione, você precisa adicionar um workflow ao repositório especial do seu perfil.
-
-Crie o arquivo:
-
-`.github/workflows/snake.yml`
-
-Com este conteúdo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Deploy Animation
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Depois, nas configurações do repositório, confira se o GitHub Actions tem permissão de escrita (`Read and write permissions`).
-
----
-
-## 🚀 Como instalar no seu GitHub
-
-1. Crie um repositório com o nome exatamente igual ao seu username do GitHub.
-2. Marque a opção **Add a README.md file**.
-3. Cole o conteúdo acima.
-4. Substitua todas as ocorrências de `SEU_USUARIO`.
-5. Configure o workflow Snake.
-6. Faça o commit e aguarde o carregamento das estatísticas e animações.
-
-**Observação:** Os serviços externos de estatísticas e animações podem sofrer instabilidades ou limites de requisições. As imagens são carregadas externamente, não são animações executadas diretamente pelo GitHub.
-
+┌──[ NIGHT
 
